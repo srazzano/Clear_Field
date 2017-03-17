@@ -5,9 +5,9 @@
 // @description Adds clear field button to inputs/textareas
 // @namespace   srazzano
 // @include     *
-// @require     https://dl.dropboxusercontent.com/u/77691265/GM_devtools_Dialog.js
-// @icon        https://dl.dropboxusercontent.com/u/77691265/clear.png
-// @download    https://dl.dropboxusercontent.com/u/77691265/Clear_Field_6.user.js
+// @require     https://raw.githubusercontent.com/srazzano/GM_devtools_Dialog/master/GM_devtools_Dialog.js
+// @icon        https://raw.githubusercontent.com/srazzano/Images/master/clear.png
+// @download    https://raw.githubusercontent.com/srazzano/Clear_Field/master/Clear_Field_6.user.js
 // @support     srazzano@gmail.com
 // @grant       GM_addStyle
 // @grant       GM_getValue
