@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name        Clear Field 6
 // @version     1.0.6
-// @author      Sonny Razzano aka srazzano
 // @description Adds clear field button to inputs/textareas
+// @author      Sonny Razzano aka srazzano
 // @namespace   srazzano
 // @include     *
 // @require     https://raw.githubusercontent.com/srazzano/GM_devtools_Dialog/master/GM_devtools_Dialog.js
