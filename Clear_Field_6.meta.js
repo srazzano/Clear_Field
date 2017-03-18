@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Clear Field 6
-// @version     1.0.6
+// @version     1.0.7
 // @description Adds clear field button to inputs/textareas
 // @author      Sonny Razzano aka srazzano
 // @namespace   srazzano
