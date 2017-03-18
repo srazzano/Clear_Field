@@ -1,14 +1,12 @@
 // ==UserScript==
 // @name        Clear Field 6
-// @version     1.0.7
+// @version     1.0.6
 // @author      Sonny Razzano aka srazzano
 // @description Adds clear field button to inputs/textareas
 // @namespace   srazzano
 // @include     *
 // @require     https://raw.githubusercontent.com/srazzano/GM_devtools_Dialog/master/GM_devtools_Dialog.js
 // @icon        https://raw.githubusercontent.com/srazzano/Images/master/clear.png
-// @downloadURL https://raw.githubusercontent.com/srazzano/Clear_Field_6/master/Clear_Field_6.user.js
-// @updateURL   https://raw.githubusercontent.com/srazzano/Clear_Field_6/master/Clear_Field_6.meta.js
 // @support     srazzano@gmail.com
 // @grant       GM_addStyle
 // @grant       GM_getValue
@@ -57,8 +55,6 @@ SFscAlIW4I0BkRdh+kT+PA9gSR9sKSJsxRgOHyN/HPQLbkSdB2IB8hjYJJUCakZsg4kzfrkcA8q4DacQ
 ifg1nu0S+ReLONX4dWvDsBldpAZvR1/J32B0lztLxxNKp+8JcU0lblOM/Jl74XC/v942ArB9I3+FwT4vR67bT0PcJ/K3MH8fRnuBq914R\
 H6O/GhCZwmhA64jnNQ2H6cBwA1qdMbctP64V4wfz2tL8QhgVYwmq/Hqxg/4gThfS/tZXsVgq8xivMb3yW+mGPkQwEoOcTb6FUv9Q7KvAM\
 sZxQOA//17/g9bIEhccjsy+AAAAABJRU5ErkJggg==';
-	
-  const image3 = '';
 
   devtools.config.init({
     title: 'Clear Field 6 Options',
