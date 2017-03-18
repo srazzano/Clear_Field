@@ -57,6 +57,8 @@ SFscAlIW4I0BkRdh+kT+PA9gSR9sKSJsxRgOHyN/HPQLbkSdB2IB8hjYJJUCakZsg4kzfrkcA8q4DacQ
 ifg1nu0S+ReLONX4dWvDsBldpAZvR1/J32B0lztLxxNKp+8JcU0lblOM/Jl74XC/v942ArB9I3+FwT4vR67bT0PcJ/K3MH8fRnuBq914R\
 H6O/GhCZwmhA64jnNQ2H6cBwA1qdMbctP64V4wfz2tL8QhgVYwmq/Hqxg/4gThfS/tZXsVgq8xivMb3yW+mGPkQwEoOcTb6FUv9Q7KvAM\
 sZxQOA//17/g9bIEhccjsy+AAAAABJRU5ErkJggg==';
+	
+  const image3 = '';
 
   devtools.config.init({
     title: 'Clear Field 6 Options',
