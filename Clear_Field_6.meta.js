@@ -7,8 +7,8 @@
 // @include     *
 // @require     https://raw.githubusercontent.com/srazzano/GM_devtools_Dialog/master/GM_devtools_Dialog.js
 // @icon        https://raw.githubusercontent.com/srazzano/Images/master/clear.png
-// @downloadURL https://raw.githubusercontent.com/srazzano/Clear_Field/master/Clear_Field_6.user.js
-// @updateURL   https://raw.githubusercontent.com/srazzano/Clear_Field/master/Clear_Field_6.meta.js
+// @downloadURL https://raw.githubusercontent.com/srazzano/Clear_Field_6/master/Clear_Field_6.user.js
+// @updateURL   https://raw.githubusercontent.com/srazzano/Clear_Field_6/master/Clear_Field_6.meta.js
 // @support     srazzano@gmail.com
 // @grant       GM_addStyle
 // @grant       GM_getValue
