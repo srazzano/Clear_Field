@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Clear Field 6
-// @version     1.0.6
+// @version     1.0.7
 // @author      Sonny Razzano aka srazzano
 // @description Adds clear field button to inputs/textareas
 // @namespace   srazzano
@@ -18,7 +18,7 @@
 /* jshint multistr:true */
 
 (function () {
-
+  //SONCO
   'use strict';
 
   const image1 = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAG+0lEQVR42tWXe0xb1\
