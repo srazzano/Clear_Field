@@ -310,6 +310,7 @@ q9jEZm+0OaAVjmaYBnLoC/00e/8w1k23Evr50RhwAAAABJRU5ErkJggg==") !important;\
           bs.top = offsetY + iconPadding + 'px';
         }
         if (unit) {
+          textField.parentNode.firstElementChild.style.paddingLeft = '0';
           textField.parentNode.firstElementChild.style.textIndent = '32px';
         }
         if (usps) {
