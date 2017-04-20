@@ -235,6 +235,7 @@ q9jEZm+0OaAVjmaYBnLoC/00e/8w1k23Evr50RhwAAAABJRU5ErkJggg==") !important;\
         mail = uri.match(/mail\.google\.com/),
         mozo = uri.match(/mozillazine\.org/),
         tmpo = uri.match(/tabmixplus\.org/),
+        unit = uri.match(/united\.com/),
         usps = uri.match(/uspstrackingus\.com/),
         yout = uri.match(/youtube\.com/);
     bs.backgroundColor = 'transparent';
@@ -307,6 +308,9 @@ q9jEZm+0OaAVjmaYBnLoC/00e/8w1k23Evr50RhwAAAABJRU5ErkJggg==") !important;\
         if (mail) {
           bs.left = '-4px';
           bs.top = offsetY + iconPadding + 'px';
+        }
+        if (unit) {
+          textField.parentNode.firstElementChild.style.textIndent = '32px';
         }
         if (usps) {
           bs.left = offsetX + iconPadding + 1 + 'px';
@@ -388,6 +392,9 @@ q9jEZm+0OaAVjmaYBnLoC/00e/8w1k23Evr50RhwAAAABJRU5ErkJggg==") !important;\
     .SearchBox__cover:after,\
     ._5iwm ._58ak::before {\
       display: none !important;\
+    }\
+    .dropdown img.clear-field {\
+      width: 0 !important;\
     }\
     .SearchBox__inputWrapper > label + input {\
       display: -moz-box !important;\
