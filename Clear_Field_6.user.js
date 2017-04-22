@@ -249,7 +249,7 @@ q9jEZm+0OaAVjmaYBnLoC/00e/8w1k23Evr50RhwAAAABJRU5ErkJggg==") !important;\
     bs.position = 'absolute';
     bs.right = '0';
     bs.top = '0';
-    bs.zIndex = 2147483647;
+    bs.zIndex = 2147483646;
     ts.display = 'inline-block';
     ts.textIndent = '0';
     var bOffset = getOffset(button),
